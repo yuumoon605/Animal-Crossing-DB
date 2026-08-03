@@ -43,11 +43,11 @@ http://localhost:5000 #任意のブラウザでアクセス
 ・出現場所（条件含む）
 
 ### 7.動作画面
-実行サイトトップページの画面
+### 実行サイトトップページの画面
 ![トップページ](images/acnh-db_explane1.png)
-検索フォームで実際に検索を行った様子
+### 検索フォームで実際に検索を行った様子
 ![検索結果](images/acnh-db_explane2.png)
-Dockerでのコンテナ起動状態
+### Dockerでのコンテナ起動状態
 ![docker ps](images/acnh-db_explane3.png)
 
 ### 8.ライセンス
