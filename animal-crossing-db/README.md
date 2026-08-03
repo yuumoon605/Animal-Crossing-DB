@@ -11,8 +11,10 @@ Flask（Python）で構築され、Docker コンテナ上で動作します。
 本アプリケーションはDocker上で動作します。ホストPCにDockerがインストールされている必要があります。
 
 ### 3. リポジトリのクローンまたはダウンロード
+```bash
 git clone https://github.com/yuumoon605/Animal-Crossing-DB.git
 cd Animal-Crossing-DB
+```
 
 ### 4. ファイル構成
 ```bash
