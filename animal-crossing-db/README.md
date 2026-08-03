@@ -15,6 +15,7 @@ git clone https://github.com/yuumoon605/Animal-Crossing-DB.git
 cd Animal-Crossing-DB
 
 ### 4. ファイル構成
+```bash
 animal-crossing-db/
 ├── app.py                # Flask アプリ本体
 ├── database.py           # 生き物データ（CREATURES_DATA）
@@ -22,11 +23,14 @@ animal-crossing-db/
 ├── Dockerfile            # Docker イメージ定義
 └── templates/
     └── index.html        # Web UI（Bootstrap使用）
+```
 
 ### 5. 実行方法（Docker）
+```bash
 docker build -t acnh-db .　#Dockerイメージをビルド
 docker run -d -p 5000:5000 --name acnh-container acnh-db　#コンテナを起動
 http://localhost:5000 #任意のブラウザでアクセス
+```
 
 ### 6.アプリの使い方
 検索フォーム
