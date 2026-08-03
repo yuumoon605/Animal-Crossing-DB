@@ -42,5 +42,12 @@ http://localhost:5000 #任意のブラウザでアクセス
 ・出現時間
 ・出現場所（条件含む）
 
-### 7.ライセンス
+### 7.動作画面
+![トップページ](images/top.png)
+
+![検索結果](images/search.png)
+
+![docker ps](images/docker.png)
+
+### 8.ライセンス
 本リポジトリは自由に改変・利用可能です。
