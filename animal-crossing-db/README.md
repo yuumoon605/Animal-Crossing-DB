@@ -43,11 +43,11 @@ http://localhost:5000 #任意のブラウザでアクセス
 ・出現場所（条件含む）
 
 ### 7.動作画面
-![トップページ](images/acnh-db_explane (2).png)
+![トップページ](images/acnh-db_explane2.png)
 
-![検索結果](images/acnh-db_explane (3).png)
+![検索結果](images/acnh-db_explane3.png)
 
-![docker ps](images/acnh-db_explane (1).png)
+![docker ps](images/acnh-db_explane1.png)
 
 ### 8.ライセンス
 本リポジトリは自由に改変・利用可能です。
